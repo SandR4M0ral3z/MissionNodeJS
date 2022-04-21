@@ -6,7 +6,7 @@ const shorlax = new Pokemon("shorlax")
 const eevee = new Pokemon("eevee")
 
 miutu.sayHello()
-miutu.sayMessaga("Heey!")
+miutu.sayMessage("Heey!")
 
 chikorita.sayHello()
 chikorita.sayMessage("Heey!")
